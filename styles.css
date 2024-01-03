@@ -512,7 +512,7 @@ section.about-hero {
     background-image: url(./images/footer-bg.png);
     background-position: right;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
   }
 
   .social-links a img {
